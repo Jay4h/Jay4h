@@ -3,7 +3,7 @@
 # Hi 👋, I'm Jay Thakkar  
 🚀 Computer Engineering Student | Full-Stack Developer | Open-Source Enthusiast  
 
-I love building *AI-driven applications, working on **full-stack projects*, and contributing to the open-source community.  
+I love building AI-driven applications, working on full-stack projects, and contributing to the open-source community.  
 
 ---
 
